@@ -202,7 +202,7 @@ var items = [
 [["ATTRAGREEROMANIAN- nonsubject3pl",16],DS, {s:"Animalele de lângă ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Animalele","Ele"]}],
 [["ATTRAGREEROMANIAN- subject3pl",16],DS, {s:"Ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Ele","Ei"]}],
 
-[["ATTRAGREEROMANIAN-nonsubject1pl",17],DS, {s:" Câinii de lângă noi adesea avem o energie debordantă." },"QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Câinii ","Voi"]}],
+[["ATTRAGREEROMANIAN-nonsubject1pl",17],DS, {s:" Câinii de lângă noi adesea avem o energie debordantă." },"QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Câinii ","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",17],DS, {s:"Noi adesea avem o energie debordantă."}, "QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Noi","Voi"]}],
 [["ATTRAGREEROMANIAN-nonsubject2pl",17],DS, {s:" Câinii de lângă voi adesea aveţi o energie debordantă."}, "QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Câinii ","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",17],DS, {s:"Voi adesea aveţi o energie debordantă."}, "QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Voi","Noi"]}],
@@ -224,7 +224,7 @@ var items = [
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",20],DS, {s:"Profesorii de lângă noi uneori avem numeroase realizări mari." },"QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Profesorii ","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",20],DS, {s:"Noi uneori avem numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Noi ","Voi"]}],
-[["ATTRAGREEROMANIAN-nonsubject2pl",20],DS, {s:"Profesorii de lângă voi uneori aveţi numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Profesorii ","Noi"]}],
+[["ATTRAGREEROMANIAN-nonsubject2pl",20],DS, {s:"Profesorii de lângă voi uneori aveţi numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Profesorii ","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",20],DS, {s:"Voi uneori aveţi numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Voi","Noi"]}],
 [["ATTRAGREEROMANIAN-nonsubject3pl",20],DS, {s:"Profesorii de lângă ele uneori au numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Profesorii ","Ele"]}],
 [["ATTRAGREEROMANIAN-subject3pl",20],DS, {s:"Ele uneori au numeroase realizări mari."}, "QuestionAlt", {q: "Cine/ Ce are numeroase realizări mari?", as: ["Ele","Ei"]}],
@@ -236,11 +236,11 @@ var items = [
 [["ATTRAGREEROMANIAN-nonsubject3pl",21],DS, {s:"Cârnaţii de lângă ei mereu au sare grunjoasă multă."}, "QuestionAlt", {q: "Cine/ Ce are sare grunjoasă multă?", as: ["Cârnaţii","Ei"]}],
 [["ATTRAGREEROMANIAN-subject3pl",21],DS, {s:"Ei mereu au sare grunjoasă multă."}, "QuestionAlt", {q: "Cine/ Ce are sare grunjoasă multă?", as: ["Ei","Ele"]}],
 
-[["ATTRAGREEROMANIAN-nonsubject1pl",22],DS, {s:"Buştenii  de lângă noi mereu are rezistenţă de invidiat." },"QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii ","Noi"]}],
+[["ATTRAGREEROMANIAN-nonsubject1pl",22],DS, {s:"Buştenii  de lângă noi mereu are rezistenţă de invidiat." },"QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",22],DS, {s:"Noi mereu avem rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Noi","Voi"]}],
-[["ATTRAGREEROMANIAN-nonsubject2pl",22],DS, {s:"Buştenii  de lângă voi mereu aveţi rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii  ","Voi"]}],
+[["ATTRAGREEROMANIAN-nonsubject2pl",22],DS, {s:"Buştenii  de lângă voi mereu aveţi rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",22],DS, {s:"Voi mereu aveţi rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Voi ","Noi"]}],
-[["ATTRAGREEROMANIAN-nonsubject3pl",22],DS, {s:"Buştenii  de lângă ele mereu au rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii  ","Ele"]}],
+[["ATTRAGREEROMANIAN-nonsubject3pl",22],DS, {s:"Buştenii  de lângă ele mereu au rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Buştenii","Ele"]}],
 [["ATTRAGREEROMANIAN-subject3pl",22],DS, {s: "Ele mereu au rezistenţă de invidiat."}, "QuestionAlt", {q: "Cine/ Ce are rezistenţă de invidiat?", as: ["Ele","Ei"]}],
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",23],DS, {s:"Nasturii de lângă noi adesea avem aţă albastră groasă." },"QuestionAlt", {q: "Cine/ Ce are aţă albastră groasă?", as: ["Nasturii","Noi"]}],
@@ -249,11 +249,11 @@ var items = [
 [["ATTRAGREEROMANIAN-subject2pl ",23],DS, {s:"Voi adesea aveţi aţă albastră groasă."}, "QuestionAlt", {q: "Cine/ Ce are aţă albastră groasă?", as: ["Voi","Noi"]}],
 [["ATTRAGREEROMANIAN-nonsubject3pl",23],DS, {s:"Nasturii de lângă ei adesea au aţă albastră groasă."}, "QuestionAlt", {q: "Cine/ Ce are aţă albastră groasă?", as: ["Nasturii","Ei"]}],
 [["ATTRAGREEROMANIAN-subject3pl",23],DS, {s:"Ei adesea au aţă albastră groasă."}, "QuestionAlt", {q: "Cine/ Ce are aţă albastră groasă?", as: ["Ei","Ele"]}],
-[["ATTRAGREEROMANIAN-nonsubject1pl",24],DS, {s:"Sacii  de lângă noi adesea avem multe bancnote verzi." },"QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii ","Noi"]}],
+[["ATTRAGREEROMANIAN-nonsubject1pl",24],DS, {s:"Sacii  de lângă noi adesea avem multe bancnote verzi." },"QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",24],DS, {s:"Noi adesea avem multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Noi","Voi"]}],
-[["ATTRAGREEROMANIAN-nonsubject2pl",24],DS, {s:"Sacii de lângă voi adesea aveţi multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii ","Voi"]}],
+[["ATTRAGREEROMANIAN-nonsubject2pl",24],DS, {s:"Sacii de lângă voi adesea aveţi multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",24],DS, {s:"Voi adesea aveţi multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Voi","Noi"]}],
-[["ATTRAGREEROMANIAN-nonsubject3pl",24],DS, {s:"Sacii  de lângă ele adesea au multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii  ","Ele"]}],
+[["ATTRAGREEROMANIAN-nonsubject3pl",24],DS, {s:"Sacii  de lângă ele adesea au multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Sacii","Ele"]}],
 [["ATTRAGREEROMANIAN-subject3pl",24],DS, {s:"Ele adesea au multe bancnote verzi."}, "QuestionAlt", {q: "Cine/ Ce are multe bancnote verzi?", as: ["Ele","Ei"]}],
 
 
@@ -315,7 +315,7 @@ var items = [
 [["filler-onenounplagreement",73], DS, {s:"Iepuraşii fricoşi se ascund de oameni adesea."}, "QuestionAlt", {q: "Cine se ascunde de oameni adesea?", as: ["Iepuraşii fricoşi","Leii fricoşi"]}],
 [["filler-onenounplagreement",74], DS, {s:"Cutremurele mari distrug locuinţe tot timpul."}, "QuestionAlt", {q: "Ce distrug cutremurele mari tot timpul?", as: ["Locuinţe","Grădini"]}],
 [["filler-onenounplagreement",75], DS, {s:"Grădinile japoneze au trandafiri adesea."}],
-[["filler-onenounplagreement",76], DS, {s:"Fetele seducătoare atrag admiratori adesea."},"QuestionAlt", {q: "Cine atrage admiratori adesea?", as: ["Fetele seducătoare ","Femeile seducătoare "]}],
+[["filler-onenounplagreement",76], DS, {s:"Fetele seducătoare atrag admiratori adesea."}],
 [["filler-onenounplagreement",77], DS, {s:"Muzicienii creativi compun melodii deosebite."}],
 [["filler-onenounplagreement",78], DS, {s:"Rănile sufleteşti dor foarte tare."}],
 [["filler-onenounplagreement",79], DS, {s:"Paharele colorate conţin suc de portocale."}],
@@ -323,7 +323,7 @@ var items = [
 [["filler-onenounplagreement",81], DS, {s:"Elevii cuminţi doresc note mari."}],
 [["filler-onenounplagreement",82], DS, {s:"Parfumurile franţuzeşti miros incredibil de frumos."}],
 [["filler-onenounplagreement",83], DS, {s:"Bunicii iubitori dau multe cadouri nepoţilor lor."}],
-[["filler-onenounplagreement",84], DS, {s:"Cheile verzi deschid multe uşi."},"QuestionAlt", {q: "Ce deschid cheile verzi?", as: ["Multe uşi","Multe cufere"]}],
+[["filler-onenounplagreement",84], DS, {s:"Cheile verzi deschid multe uşi."}],
 
 [["filler-onenounsgagreement",85],DS, {s:"Fata şatenă se ascunde de prieteni adesea."}],
 [["filler-onenounsgagreement",86],DS, {s:"Pisica năzdrăvană sparge vase tot timpul."},"QuestionAlt", {q: "Cine sparge vase tot timpul?", as: ["Pisica năzdrăvană","Pisica simpatică"]}],
