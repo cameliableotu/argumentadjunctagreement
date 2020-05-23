@@ -125,7 +125,7 @@ var items = [
 [["ATTRAGREEROMANIAN-nonsubject2pl",5],DS, {s:"Pisicile de lângă voi adesea aveţi mişcări unduitoare elegante."}, "QuestionAlt", {q: "Cine/ Ce are mişcări unduitoare elegante?", as: ["Pisicile","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",5],DS, {s:"Voi adesea aveţi mişcări unduitoare elegante."}, "QuestionAlt", {q: "Cine/ Ce are mişcări unduitoare elegante?", as: ["Voi","Ei"]}],
 [["ATTRAGREEROMANIAN-nonsubject3pl",5],DS, {s:"Pisicile de lângă ei adesea au mişcări unduitoare elegante."}, "QuestionAlt", {q: "Cine/ Ce are mişcări unduitoare elegante?", as: ["Pisicile","Ei"]}],
-[["ATTRAGREEROMANIAN- subject3pl",5],DS, {s:"Ei adesea au mişcări unduitoare elegante."}, "QuestionAlt", {q: "Cine/ Ce are mişcări unduitoare elegante?", as: ["Ei","Ele"]}],
+[["ATTRAGREEROMANIAN-subject3pl",5],DS, {s:"Ei adesea au mişcări unduitoare elegante."}, "QuestionAlt", {q: "Cine/ Ce are mişcări unduitoare elegante?", as: ["Ei","Ele"]}],
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",6],DS, {s:" Învăţătoarele de lângă noi adesea avem succes răsunător la ore." },"QuestionAlt", {q: "Cine/ Ce are succes răsunător la ore?", as: ["Învăţătoarele","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",6],DS, {s:"Noi adesea avem succes răsunător la ore."}, "QuestionAlt", {q: "Cine/ Ce are succes răsunător la ore?", as: ["Noi","Ele"]}],
@@ -179,14 +179,14 @@ var items = [
 [["ATTRAGREEROMANIAN-nonsubject2pl",13],DS, {s:"Sufletele de lângă voi mereu aveţi aripi de înger diafane."}, "QuestionAlt", {q: "Cine/ Ce are aripi de înger diafane?", as: ["Sufletele","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",13],DS, {s:"Voi mereu aveţi aripi de înger diafane."}, "QuestionAlt", {q: "Cine/ Ce are aripi de înger diafane?", as: ["Voi","Ei"]}],
 [["ATTRAGREEROMANIAN-nonsubject3pl",13],DS, {s:" Sufletele de lângă ei mereu au aripi de înger diafane."}, "QuestionAlt", {q: "Cine/ Ce are aripi de înger diafane?", as: ["Sufletele","Ei"]}],
-[["ATTRAGREEROMANIAN-subject3pl",13],DS, {s:"Ei mereu au aripi de înger diafane."}, "QuestionAlt", {q: "Cine/ Ce are aripi de înger diafane?", as: ["Sufletele","Ei"]}],
+[["ATTRAGREEROMANIAN-subject3pl",13],DS, {s:"Ei mereu au aripi de înger diafane."}, "QuestionAlt", {q: "Cine/ Ce are aripi de înger diafane?", as: ["Ei","Ele"]}],
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",14],DS, {s:"Mamiferele de lângă noi uneori avem banane verzi necoapte." },"QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Mamiferele","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",14],DS, {s:"Noi uneori avem banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Noi","Ele"]}],
 [["ATTRAGREEROMANIAN-nonsubject2pl",14],DS, {s:"Mamiferele de lângă voi uneori aveţi  banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Mamiferele","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",14],DS, {s:"Voi uneori aveţi banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Voi","Ele"]}],
 [["ATTRAGREEROMANIAN-nonsubject3pl",14],DS, {s:"Mamiferele de lângă ele uneori au banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Mamiferele","Ele"]}],
-[["ATTRAGREEROMANIAN- subject3pl",14],DS, {s:"Ele uneori au banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Ele","Ei"]}],
+[["ATTRAGREEROMANIAN-subject3pl",14],DS, {s:"Ele uneori au banane verzi necoapte."}, "QuestionAlt", {q: "Cine/ Ce are banane verzi necoapte?", as: ["Ele","Ei"]}],
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",15],DS, {s:"Macrourile de lângă noi adesea avem icre rozalii pufoase." },"QuestionAlt", {q: "Cine/ Ce are icre rozalii pufoase?", as: ["Macrourile","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",15],DS, {s:"Noi adesea avem icre rozalii pufoase."}, "QuestionAlt", {q: "Cine/ Ce are icre rozalii pufoase?", as: ["Noi","Voi"]}],
@@ -199,8 +199,8 @@ var items = [
 [["ATTRAGREEROMANIAN-subject1pl",16],DS, {s:"Noi uneori avem un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Noi","Voi"]}],
 [["ATTRAGREEROMANIAN-nonsubject2pl",16],DS, {s:"Animalele de lângă voi uneori aveţi  un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Animalele","Voi"]}],
 [["ATTRAGREEROMANIAN-subject2pl",16],DS, {s:"Voi uneori aveţi un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Voi","Noi"]}],
-[["ATTRAGREEROMANIAN- nonsubject3pl",16],DS, {s:"Animalele de lângă ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Animalele","Ele"]}],
-[["ATTRAGREEROMANIAN- subject3pl",16],DS, {s:"Ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Ele","Ei"]}],
+[["ATTRAGREEROMANIAN-nonsubject3pl",16],DS, {s:"Animalele de lângă ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Animalele","Ele"]}],
+[["ATTRAGREEROMANIAN-subject3pl",16],DS, {s:"Ele uneori au un entuziasm contagios."}, "QuestionAlt", {q: "Cine/ Ce are un entuziasm contagios?", as: ["Ele","Ei"]}],
 
 [["ATTRAGREEROMANIAN-nonsubject1pl",17],DS, {s:"Câinii de lângă noi adesea avem o energie debordantă." },"QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Câinii ","Noi"]}],
 [["ATTRAGREEROMANIAN-subject1pl",17],DS, {s:"Noi adesea avem o energie debordantă."}, "QuestionAlt", {q: "Cine/ Ce are o energie debordantă?", as: ["Noi","Ei"]}],
